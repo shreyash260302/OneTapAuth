@@ -32,6 +32,19 @@ OneTapAuth is a secure and user-friendly authentication system built with **Next
    ```
 4. Open `http://localhost:3000` in your browser.
 
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/Home.png)
+
+### Login Screen
+![Login Screen](screenshots/Login.png)
+
+### OTP Verification Screen
+![OTP Screen](screenshots/OTP.png)
+
+
 ## How It Works
 1. The user selects their country and enters a phone number.
 2. Clicking **Get OTP** triggers OTP generation.

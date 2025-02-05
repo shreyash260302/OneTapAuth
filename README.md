@@ -19,7 +19,7 @@ OneTapAuth is a secure and user-friendly authentication system built with **Next
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/OneTapAuth.git
+   git clone https://github.com/shreyash260302/OneTapAuth.git
    cd OneTapAuth
    ```
 2. **Install dependencies:**
